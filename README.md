@@ -9,4 +9,4 @@ Empatica E4 Client API to log HR, EDA, IBI and BVP from Empatica Windows Streami
 
 # Known Issue: 
 1. After the expiration of the timer, app may not close and save automatically. 
- Temp Fix: Press CRTL + C to forcefully close and same once the timer expires. 
+ Temp Fix: Press CRTL + C to forcefully close and save once the timer expires. 
