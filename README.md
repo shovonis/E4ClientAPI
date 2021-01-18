@@ -1,6 +1,8 @@
 # E4ClientAPI
 Empatica E4 Client API to log HR, EDA, IBI and BVP from Empatica Windows Streaming Server. 
 
+Reference: http://developer.empatica.com/windows-streaming-server-usage.html
+
 # Run 
 1. Run the python code using "python e4_api.py" from command line. 
 2. Make sure to update the timer from the e4_api.py
