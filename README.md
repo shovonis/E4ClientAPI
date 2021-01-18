@@ -5,7 +5,7 @@ Reference: http://developer.empatica.com/windows-streaming-server-usage.html
 
 # Run 
 1. Run the python code using "python e4_api.py" from command line. 
-2. Make sure to update the timer from the e4_api.py
+2. Make sure to update the timer, device_id and ip_address from the e4_api.py
 3. Press CRTL + C to forcefully close the app
 4. File will be saved in the same directory. 
 
